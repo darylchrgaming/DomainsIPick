@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.brand-name {
+    text-align: center;
+    background-color: rgb(14, 121, 243);
+}
+
+.brand-name a {
+    text-decoration: none;
+    color: white;
+}
+
+.available {
+    color: green
+}
+
+.list h3 {
+    text-align: center;
+    font-size: 300%;
+}
+
+.list p {
+    text-align: center;
+    font-size: 150%;
+}
